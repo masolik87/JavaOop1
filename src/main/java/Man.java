@@ -21,5 +21,5 @@ public abstract class Man implements GameInterface{
     public void step(int a) {}
 
     @Override
-    public String getInfo() {return "Я человек!";}
+    public String getInfo() {return "Я Снайпер!";}
 }
